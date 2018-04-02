@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "cross-env": "^5.1.4",
-    "mysql2": "^1.5.3",
     "ws": "^5.1.0"
   }
 }

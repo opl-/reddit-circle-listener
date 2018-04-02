@@ -1,12 +1,6 @@
 {
-	"mysql": {
-		"host": "127.0.0.1",
-		"port": 3306,
-		"user": "username",
-		"password": "password",
-		"database": "database",
-		"charset": "utf8mb4",
-		"connectionLimit": 5,
-		"supportBigNumbers": true
+	"ws": {
+		"auth": "",
+		"server": "ws://localhost:57086"
 	}
 }
