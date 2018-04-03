@@ -2,5 +2,6 @@
 	"ws": {
 		"auth": "",
 		"server": "ws://localhost:57086"
-	}
+	},
+	"sentry_dsn": ""
 }
